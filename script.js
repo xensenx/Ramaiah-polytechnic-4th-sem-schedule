@@ -11,8 +11,8 @@ const timetableData = {
         { time: "9:00–11:00", subject: "JAVA / DSP", type: "Lab", batch: "b1 / b2" },
         { time: "11:00–12:00", subject: "OS", type: "Theory", batch: "All" },
         { time: "12:00–1:00", subject: "DSP", type: "Theory", batch: "All" },
-        { time: "1:30–2:30", subject: "SE", type: "Theory", batch: "All" },
-        { time: "2:30–4:30", subject: "DSP / JAVA", type: "Lab", batch: "b1 / b2" }
+        { time: "2:00–3:00", subject: "SE", type: "Theory", batch: "All" },
+        { time: "3:00–4:30", subject: "DSP / JAVA", type: "Lab", batch: "b1 / b2" }
     ],
     Wednesday: [
         { time: "9:00–10:00", subject: "SE", type: "Theory", batch: "All" },
